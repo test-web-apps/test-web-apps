@@ -10,7 +10,7 @@ Quality Analyst dedicated to delivering seamless and efficient software experien
 
 🔭 I'm currently learning **Selenium & Automation Testing**  
 🌱 Ask me about **Java, Python, Manual Testing, Selenium, Cypress**  
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/1E-fi9Mj7wOwj4bnAm9xVhHYIUFlyFL7X/view?usp=drive_link)  
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1URKuvjx44DOmqakC4XGjHJgKcG5UkHVS/view?usp=sharing)  
 
 ---
 
